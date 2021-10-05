@@ -2686,3 +2686,11 @@ input, select, textarea {
 			}
 
 	}
+	.box_coaching
+    {
+		background-color: white;
+		width: 450px;
+		height: 250px;
+		border: 10px solid black;
+		margin: 20px;
+	}
